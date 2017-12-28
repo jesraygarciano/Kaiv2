@@ -75,7 +75,7 @@
 							<li><a href="portfolio.html">Events</a></li>
 							<li><a href="portfolio.html">Gallery</a></li>
 							<li><a href="<?php echo get_bloginfo('template_directory'); ?>/about.html">About</a></li>
-							<li><a href="<?php echo get_bloginfo('template_directory'); ?>/contact.php">Contactko</a></li>
+							<li><a href="<?php echo get_bloginfo('template_directory'); ?>/contact.php">Contact</a></li>
 						</ul>
 					</div>
 				</div>
@@ -116,7 +116,7 @@
 			</div>
 		</div>
 
-		<div class="gtco-section">
+		<div class="gtco-section animate-box">
 			<div class="gtco-container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 gtco-heading text-center">

@@ -113,7 +113,7 @@
 								}
 
 								el.removeClass('item-animate');
-							},  k * 50, 'easeInOutExpo' );
+							},  k * 200, 'easeInOutExpo' );
 						});
 						
 					}, 100);
@@ -144,7 +144,7 @@
 							setTimeout( function () {
 								el.addClass('changed animated-fast');
 								el.removeClass('item-animate');
-							},  k * 100, 'easeInOutExpo' );
+							},  k * 200, 'easeInOutExpo' );
 						});
 						
 					}, 100);
