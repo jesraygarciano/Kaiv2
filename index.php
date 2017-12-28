@@ -133,27 +133,49 @@
 					<!-- START OF TESTIMONIALS -->
 					<div class="col-md-6 gtco-testimonials">
 						<h2>Testimonials</h2>
-								<div class="gtco-testimony animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/person_1.jpg" />
+							<div class="row">
+								<div class="col-xs-4">
+									<div class="gtco-testimony animate-box">
+										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/person_1.jpg" />
+									</div>
 								</div>
-								<blockquote>
-									<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
-									<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
-								</blockquote>
-								<div class="gtco-testimony animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/person_2.jpg" />
+									<div class="col-xs-8">
+										<blockquote>
+											<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
+											<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
+										</blockquote>									
+									</div>
+							</div>
+
+							<div class="row">
+								<div class="col-xs-4">
+									<div class="gtco-testimony animate-box">
+										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/person_2.jpg" />
+									</div>									
 								</div>
-								<blockquote>
-									<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
-									<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
-								</blockquote>
-								<div class="gtco-testimony animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/person_3.jpg" />
+
+								<div class="col-xs-8">
+									<blockquote>
+										<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
+										<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
+									</blockquote>
 								</div>
-								<blockquote>
-									<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
-									<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
-								</blockquote>
+							</div>
+
+							<div class="row">
+								<div class="col-xs-4">
+									<div class="gtco-testimony animate-box">
+										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/person_3.jpg" />
+									</div>									
+								</div>
+
+								<div class="col-xs-8">
+									<blockquote>
+										<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
+										<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
+									</blockquote>
+								</div>
+							</div>
 						</div>
 						<!-- END OF TESTIMONIALS -->
 
