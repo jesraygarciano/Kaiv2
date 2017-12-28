@@ -130,9 +130,9 @@
 
 		<div class="gtco-section">
 			<div class="gtco-container">
-				<div class="row">
-					<div class="col-md-6 gtco-news">
-						<h2>News</h2>	
+				<div class="row animate-box">
+					<div class="col-md-6 gtco-news ">
+						<h2 class=>News</h2>	
 						<ul>
 							<li>
 								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_2.jpg" />
@@ -166,21 +166,21 @@
 					<!-- END News -->
 					<div class="col-md-6 col-md-push-1 gtco-testimonials">
 						<h2>Testimonials</h2>
-								<div class="gtco-testimony">
+								<div class="gtco-testimony animate-box">
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/person_1.jpg" />
 								</div>
 								<blockquote>
 									<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
 									<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
 								</blockquote>
-								<div class="gtco-testimony">
+								<div class="gtco-testimony animate-box">
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/person_2.jpg" />
 								</div>
 								<blockquote>
 									<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
 									<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
 								</blockquote>
-								<div class="gtco-testimony">
+								<div class="gtco-testimony animate-box">
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/person_3.jpg" />
 								</div>
 								<blockquote>
