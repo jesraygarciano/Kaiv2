@@ -143,7 +143,7 @@
 							setTimeout( function () {
 								el.addClass('changed animated-fast');
 								el.removeClass('item-animate');
-							},  k * 200, 'easeInOutExpo' );
+							},  k * 2000, 'easeInOutExpo' );
 						});
 						
 					}, 100);
