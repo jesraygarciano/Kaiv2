@@ -1,0 +1,35 @@
+						<!-- START OF NEWS -->
+					<div class="col-md-6 gtco-news">
+						<h2>News</h2>	
+						<hr />						
+						<ul>
+							<li>
+								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_2.jpg" />
+								<a href="#">
+									<span class="post-date">September 10, 2016</span>
+									<h3>Manila Bridge Re-construction</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod...</p>
+								</a>
+							</li>
+
+							<li>
+								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_1.jpg" />
+								<a href="#">
+									<span class="post-date">September 10, 2016</span>
+									<h3>Manila Bridge Re-construction</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod...</p>
+								</a>
+							</li>
+
+							<li>
+								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_3.jpg" />								
+								<a href="#">
+									<span class="post-date">September 10, 2016</span>
+									<h3>Manila Bridge Re-construction</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod...</p>
+								</a>
+							</li>
+						</ul>
+						<p><a href="#" class="btn btn-sm btn-special">More News</a></p>
+					</div>
+					<!-- END OF NEWS -->

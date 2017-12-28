@@ -128,11 +128,13 @@
 		<!-- END Work -->
 
 		<div class="gtco-section">
-			<div class="gtco-container">
+			<div class="gtco-container-fluid">
 				<div class="row animate-box">
 					<!-- START OF TESTIMONIALS -->
-					<div class="col-md-6 gtco-testimonials">
+					<div class="col-md-5 gtco-testimonials">
 						<h2>Testimonials</h2>
+						<hr />
+
 							<div class="row">
 								<div class="col-xs-4">
 									<div class="gtco-testimony animate-box">
@@ -180,36 +182,27 @@
 						<!-- END OF TESTIMONIALS -->
 
 						<!-- START OF NEWS -->
-					<div class="col-md-6 gtco-news">
+					<div class="col-md-7 gtco-news">
 						<h2>News</h2>	
-						<ul>
-							<li>
-								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_2.jpg" />
-								<a href="#">
-									<span class="post-date">September 10, 2016</span>
-									<h3>Manila Bridge Re-construction</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod...</p>
-								</a>
-							</li>
+						<hr />						
+							<div class="row">
+								<div class="col-md-6">
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_4.jpg" />									
+								</div>
+								<div class="col-md-6">
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_1.jpg" />									
+								</div>								
+							</div>
 
-							<li>
-								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_1.jpg" />
-								<a href="#">
-									<span class="post-date">September 10, 2016</span>
-									<h3>Manila Bridge Re-construction</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod...</p>
-								</a>
-							</li>
+							<div class="row">
+								<div class="col-md-6">
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_3.jpg" />									
+								</div>
+								<div class="col-md-6">
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_2.jpg" />									
+								</div>								
+							</div>
 
-							<li>
-								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_3.jpg" />								
-								<a href="#">
-									<span class="post-date">September 10, 2016</span>
-									<h3>Manila Bridge Re-construction</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod...</p>
-								</a>
-							</li>
-						</ul>
 						<p><a href="#" class="btn btn-sm btn-special">More News</a></p>
 					</div>
 					<!-- END OF NEWS -->
