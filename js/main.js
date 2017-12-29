@@ -112,7 +112,7 @@
 									el.addClass('fadeInUp animated-fast');
 								}
 								el.removeClass('item-animate');
-							},  k * 2000, 'easeInOutExpo' );
+							},  k * 200, 'easeInOutExpo' );
 						});
 						
 					}, 100);
@@ -143,7 +143,7 @@
 							setTimeout( function () {
 								el.addClass('changed animated-fast');
 								el.removeClass('item-animate');
-							},  k * 2000, 'easeInOutExpo' );
+							},  k * 200, 'easeInOutExpo' );
 						});
 						
 					}, 100);

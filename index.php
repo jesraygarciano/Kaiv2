@@ -88,39 +88,35 @@
 					<div class="owl-carousel owl-carousel-fullwidth">
 						<div class="item">
 							<a href="#">
-								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/hero_1.jpg" alt="Kai made for adventure apparel">
-								<div class="slider-copy">
-									<h2>Jesray Garciano</h2>
-								</div>
-							</a>
-						</div>
-						<div class="item">
-							<a href="#">
 								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/hero_2.jpg" alt="Kai made for adventure apparel">
-								<div class="slider-copy">
-									<h2>Model #2</h2>
-								</div>
 							</a>
 						</div>
 						<div class="item">
 							<a href="#">
 								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/hero_3.jpg" alt="Kai made for adventure apparel">
-								<div class="slider-copy">
-									<h2>Model 3 #1</h2>
-								</div>
 							</a>
 						</div>
+						<div class="item">
+							<a href="#">
+								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/hero_1.jpg" alt="Kai made for adventure apparel">
+							</a>
+						</div>
+						<div class="item">
+							<a href="#">
+								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/hero_4.jpg" alt="Kai made for adventure apparel">
+							</a>
+						</div>						
 					</div>
 				</div>
 			</div>
 		</div>
 
-		<div class="gtco-section animate-box">
+		<div class="gtco-section">
 			<div class="gtco-container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 gtco-heading text-center">
-						<h2>WEAR YOUR PASSION FOR ADVENTURE</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.</p>
+						<h2 class="animate-box">WEAR YOUR PASSION FOR ADVENTURE</h2>
+						<p class="animate-box">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.</p>
 					</div>
 				</div>
 			</div>
@@ -141,7 +137,7 @@
 										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/person_1.jpg" />
 									</div>
 								</div>
-									<div class="col-xs-8">
+									<div class="col-xs-8 animate-box">
 										<blockquote>
 											<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
 											<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
@@ -156,7 +152,7 @@
 									</div>									
 								</div>
 
-								<div class="col-xs-8">
+								<div class="col-xs-8 animate-box">
 									<blockquote>
 										<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
 										<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
@@ -171,7 +167,7 @@
 									</div>									
 								</div>
 
-								<div class="col-xs-8">
+								<div class="col-xs-8 animate-box">
 									<blockquote>
 										<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
 										<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
@@ -186,19 +182,19 @@
 						<h2>News</h2>	
 						<hr />						
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-6 animate-box">
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_4.jpg" />									
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-6 animate-box">
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_1.jpg" />									
 								</div>								
 							</div>
 
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-6 animate-box">
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_3.jpg" />									
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-6 animate-box">
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_2.jpg" />									
 								</div>								
 							</div>
