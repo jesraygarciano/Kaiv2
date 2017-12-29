@@ -82,7 +82,7 @@
 			</div>
 		</nav>
 
-		<div class="gtco-container">
+		<div class="gtco-container-fluid">
 			<div class="row">
 				<div class="col-md-12">
 					<div class="owl-carousel owl-carousel-fullwidth">
@@ -112,11 +112,11 @@
 		</div>
 
 		<div class="gtco-section">
-			<div class="gtco-container">
+			<div class="gtco-container-fluid">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 gtco-heading text-center">
 						<h2 class="animate-box">WEAR YOUR PASSION FOR ADVENTURE</h2>
-						<p class="animate-box">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.</p>
+						<p class="animate-box">Be proud of yourself for being an avid adventurer. Show to the world that you are living life on your own terms and that you are a steward for Mother Nature. One of the best ways to do that is to wear cool, high-quality, and comfortable shirts that speak high volumes of your passion. And wearing locally made Kai shirts will definitely proclaim your love for the outdoors and your search for great adventures.</p>
 					</div>
 				</div>
 			</div>
@@ -128,34 +128,27 @@
 				<div class="row animate-box">
 					<!-- START OF TESTIMONIALS -->
 					<div class="col-md-5 gtco-testimonials">
-						<h2>Testimonials</h2>
+						<a href=""><h2>Testimonials</h2></a>
 						<hr />
 
 							<div class="row">
-								<div class="col-xs-4">
-									<div class="gtco-testimony animate-box">
-										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/person_1.jpg" />
-									</div>
+								<div class="col-md-12">
+									<iframe src="https://web.facebook.com/plugins/post.php?href=https%3A%2F%2Fweb.facebook.com%2Fgian.jubela%2Fposts%2F10209201101796906%3A0&width=500" width="500" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 								</div>
-									<div class="col-xs-8 animate-box">
-										<blockquote>
-											<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
-											<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
-										</blockquote>									
-									</div>
 							</div>
 
 							<div class="row">
 								<div class="col-xs-4">
 									<div class="gtco-testimony animate-box">
-										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/person_2.jpg" />
+										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/testi_2.jpg" />
 									</div>									
 								</div>
 
 								<div class="col-xs-8 animate-box">
 									<blockquote>
-										<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
-										<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
+										<p>&ldquo;An Apparel that made for adventurous individual, a very trusted brand! Sooo I highly recommend everyone to use KAI for your outdoor activities and adventures.
+										&ldquo;</p>
+										<p class="author"><cite>&mdash; Edmund Lazarte</cite></p>
 									</blockquote>
 								</div>
 							</div>
@@ -163,14 +156,15 @@
 							<div class="row">
 								<div class="col-xs-4">
 									<div class="gtco-testimony animate-box">
-										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/person_3.jpg" />
+										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/testi_3.jpg" />
 									</div>									
 								</div>
 
 								<div class="col-xs-8 animate-box">
 									<blockquote>
-										<p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.&ldquo;</p>
-										<p class="author"><cite>&mdash; John Doe Dueller</cite></p>
+										<p>&ldquo;i just love my KAI shirt! made of quality material, so comfortable for outdoor adventures and the design is unique and classy. I highly recommend this brand.
+										&ldquo;</p>
+										<p class="author"><cite>&mdash; Ana Cristina</cite></p>
 									</blockquote>
 								</div>
 							</div>
@@ -179,7 +173,7 @@
 
 						<!-- START OF NEWS -->
 					<div class="col-md-7 gtco-news">
-						<h2>News</h2>	
+						<a href="#"><h2>News</h2></a>	
 						<hr />						
 							<div class="row">
 								<div class="col-md-6 animate-box">
@@ -250,9 +244,9 @@
 				<div class="row row-pb-md">
 					<div class="col-md-4 gtco-widget gtco-footer-paragraph">
 						<img src="<?php echo get_bloginfo('template_directory'); ?>/images/kai_white.png" />
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod.</p>
+						<p>Kai Adventure Wear is an outdoor brand apparel that specializes in adventure souvenirs for outdoor enthusiasts alike.</p>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-8">
 						<div class="row">
 							<div class="col-md-6 gtco-footer-link">
 								<h3>Sitemap</h3>
@@ -267,15 +261,15 @@
 							<div class="col-md-6 gtco-footer-link">
 								<h3>Branches</h3>
 								<ul class="gtco-list-link">
-									<li><a href="#">Apas lahug</a></li>
-									<li><a href="#">Eagle Park</a></li>
-									<li><a href="#">Nationals Park</a></li>
-									<li><a href="#">Manila Park</a></li>
+									<li><a href="#">JY Square mall Cebu</a></li>
+									<li><a href="#">Ayala Cebu</a></li>
+									<li><a href="#">SM Seaside Cebu</a></li>
+									<li><a href="#">SM Consolacion Cebu</a></li>
 								</ul>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4 gtco-footer-subscribe">
+<!-- 					<div class="col-md-4 gtco-footer-subscribe">
 						<form class="form-inline">
 						  <div class="form-group">
 						    <label class="sr-only" for="exampleInputEmail3">Email address</label>
@@ -283,18 +277,18 @@
 						  </div>
 						  <button type="submit" class="btn btn-primary">Send</button>
 						</form>
-					</div>
+					</div> -->
 				</div>
 			</div>
 			<div class="gtco-copyright">
 				<div class="gtco-container">
 					<div class="row">
 						<div class="col-md-6 text-left">
-							<p><small>&copy; 2016 Kai adventure apparel. All Rights Reserved. </small></p>
+							<p><small>&copy; 2018 Kai adventure apparel. All Rights Reserved. </small></p>
 						</div>
 						<div class="col-md-6 text-right">
 							<p>
-								<small>Powered by <a href="#" target="_blank">Jesray Garciano</a></small>
+								<small>Powered by <a href="#" target="_blank">Kai</a></small>
 							 </p>
 						</div>
 					</div>
