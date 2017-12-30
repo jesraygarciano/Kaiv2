@@ -1,5 +1,4 @@
 <?php get_header(); ?>
-
 		<div class="gtco-section">
 			<div class="gtco-container">
 				<div class="row gtco-heading">
@@ -146,5 +145,5 @@
 			</div>
 		</footer>
 		<!-- END footer -->
-
+		
 <?php get_footer(); ?>

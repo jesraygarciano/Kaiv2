@@ -16,6 +16,7 @@
 
 	<!-- Main -->
 	<script src="<?php echo get_bloginfo('template_directory'); ?>/js/main.js"></script>
-
+	
+	<?php wp_footer(); ?> 
 	</body>
 </html>
