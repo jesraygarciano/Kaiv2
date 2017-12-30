@@ -132,9 +132,19 @@
 						<hr />
 
 							<div class="row">
-								<div class="col-md-12">
-									<iframe src="https://web.facebook.com/plugins/post.php?href=https%3A%2F%2Fweb.facebook.com%2Fgian.jubela%2Fposts%2F10209201101796906%3A0&width=500" width="500" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+								<div class="col-xs-4">
+									<div class="gtco-testimony animate-box">
+										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/testi_4.jpg" />
+									</div>
 								</div>
+									<div class="col-xs-8 animate-box">
+										<blockquote>
+											<p>&ldquo;
+												We bought our green Kai shirts, and used them for our climb up Mt. Guiting-guiting, one of the most technically difficult mountains in the Philippines. Oh, boy, our shirts were very comfortable. And it becomes even more comfy at the summit of the mountain where the temperature dropped drastically. Our Kai shirts are also quite fashionable; we wear them to the office and mall as well!
+											&ldquo;</p>
+											<p class="author"><cite>&mdash; Gian Carlo Jubela (Adrenaline Romance)</cite></p>
+										</blockquote>									
+									</div>
 							</div>
 
 							<div class="row">
