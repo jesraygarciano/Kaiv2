@@ -61,26 +61,27 @@
 			<div class="gtco-container">
 				<div class="row">
 					<div class="col-sm-2 col-xs-12">
-						<div id="gtco-logo"><a href="index.html"><img src="<?php echo get_bloginfo('template_directory'); ?>/images/kai_white.png" /></a></div>
+						<div id="gtco-logo">
+							<a href="index.html">
+								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/kai_white.png" />
+							</a></div>
 					</div>
 					<div class="col-xs-10 text-right menu-1">
-						<ul>
-							<li class="active"><a href="<?php echo get_site_url();?>">Home</a></li>
-							<li><a href="<?php echo get_site_url();?>/featured">Featured</a></li>
-							<li class="has-dropdown">
-								<a href="<?php echo get_site_url();?>/products">Products</a>
-								<ul class="dropdown">
-									<li><a href="<?php echo get_site_url();?>/souvenir">Souvenir Shirts</a></li>
-									<li><a href="<?php echo get_site_url();?>/actvent">ActVent</a></li>
-									<li><a href="<?php echo get_site_url();?>/accessories">Accessories</a></li>
-								</ul>
-							</li>
-							<li><a href="<?php echo get_site_url();?>/events">Events</a></li>
-							<li><a href="<?php echo get_site_url();?>/gallery">Gallery</a></li>
-							<li><a href="<?php echo get_site_url();?>/about">About</a></li>
-							<li><a href="<?php echo get_site_url();?>/contact">Contact</a></li>
-						</ul>
+							<?php
+							wp_nav_menu( array(
+							    'theme_location'    => 'primary',
+							    'depth'             => 2,
+							    'container'         => 'div',
+							    'container_class'   => 'collapse navbar-collapse',
+							    'container_id'      => 'bs-example-navbar-collapse-1',
+							    'menu_class'        => 'nav navbar-nav',
+							    'fallback_cb'       => 'WP_Bootstrap_Navwalker::fallback',
+							    'walker'            => new WP_Bootstrap_Navwalker(),
+							) );
+							?>
 					</div>
+
+
 				</div>
 				
 			</div>

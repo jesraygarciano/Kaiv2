@@ -1,5 +1,8 @@
 <?php
 	
+	// Register Nav Walker class_alias
+	require_once('wp-bootstrap-navwalker.php');
+
 	//  Theme Support
 	function kai_theme_setup(){
 		// Nav Menus
