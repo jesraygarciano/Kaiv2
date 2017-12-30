@@ -1,59 +1,20 @@
 <?php get_header(); ?>
-	<div class="gtco-loader"></div>
-	
-	<div id="page">
-		<nav class="gtco-nav" role="navigation">
-			<div class="gtco-container">
-				<div class="row">
-					<div class="col-sm-2 col-xs-12">
-						<div id="gtco-logo"><a href="index.html"><img src="<?php echo get_bloginfo('template_directory'); ?>/images/kai_white.png" /></a></div>
-					</div>
-					<div class="col-xs-10 text-right menu-1">
-						<ul>
-							<li class="active"><a href="<?php echo get_site_url();?>">Home</a></li>
-							<li><a href="<?php echo get_site_url();?>/featured">Featured</a></li>
-							<li class="has-dropdown">
-								<a href="<?php echo get_site_url();?>/products">Products</a>
-								<ul class="dropdown">
-									<li><a href="<?php echo get_site_url();?>/souvenir">Souvenir Shirts</a></li>
-									<li><a href="<?php echo get_site_url();?>/actvent">ActVent</a></li>
-									<li><a href="<?php echo get_site_url();?>/accessories">Accessories</a></li>
-								</ul>
-							</li>
-							<li><a href="<?php echo get_site_url();?>/events">Events</a></li>
-							<li><a href="<?php echo get_site_url();?>/gallery">Gallery</a></li>
-							<li><a href="<?php echo get_site_url();?>/about">About</a></li>
-							<li><a href="<?php echo get_site_url();?>/contact">Contact</a></li>
-						</ul>
-					</div>
-				</div>
-				
-			</div>
-		</nav>
 
 		<div class="gtco-container-fluid">
 			<div class="row">
 				<div class="col-md-12">
 					<div class="owl-carousel owl-carousel-fullwidth">
 						<div class="item">
-							<a href="#">
 								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/hero_2.jpg" alt="Kai made for adventure apparel">
-							</a>
 						</div>
 						<div class="item">
-							<a href="#">
 								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/hero_3.jpg" alt="Kai made for adventure apparel">
-							</a>
 						</div>
 						<div class="item">
-							<a href="#">
 								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/hero_1.jpg" alt="Kai made for adventure apparel">
-							</a>
 						</div>
 						<div class="item">
-							<a href="#">
 								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/hero_4.jpg" alt="Kai made for adventure apparel">
-							</a>
 						</div>						
 					</div>
 				</div>
@@ -160,101 +121,4 @@
 			</div>
 		</div>
 		<!-- END  -->
-
-<!-- 		<div class="gtco-section gto-features">
-			<div class="gtco-container">
-				<div class="row">
-					<div class="col-md-4">
-						<div class="feature-left">
-							<i class="ti-zip icon"></i>
-							<div class="copy">
-								<h3>Architect</h3>
-								<p>Lorem ipsum dolor sit ameteista, consectetur adipiscing is not elitistaris.</p>
-								<p><a href="#" class="gtco-more">Learn more</a></p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<div class="feature-left">
-							<i class="ti-hummer icon"></i>
-							<div class="copy">
-								<h3>Planning</h3>
-								<p>Lorem ipsum dolor sit ameteista, consectetur adipiscing is not elitistaris.</p>
-								<p><a href="#" class="gtco-more">Learn more</a></p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<div class="feature-left">
-							<i class="ti-plug icon"></i>
-							<div class="copy">
-								<h3>Parks &amp; Events</h3>
-								<p>Lorem ipsum dolor sit ameteista, consectetur adipiscing is not elitistaris.</p>
-								<p><a href="#" class="gtco-more">Learn more</a></p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div> -->
-
-		<footer id="gtco-footer" class="gtco-section" role="contentinfo">
-			<div class="gtco-container">
-				<div class="row row-pb-md">
-					<div class="col-md-4 gtco-widget gtco-footer-paragraph">
-						<img src="<?php echo get_bloginfo('template_directory'); ?>/images/kai_white.png" />
-						<p>Kai Adventure Wear is an outdoor brand apparel that specializes in adventure souvenirs for outdoor enthusiasts alike.</p>
-					</div>
-					<div class="col-md-8">
-						<div class="row">
-							<div class="col-md-6 gtco-footer-link">
-								<h3>Sitemap</h3>
-								<ul class="gtco-list-link">
-									<li><a href="#">Home</a></li>
-									<li><a href="#">Features</a></li>
-									<li><a href="#">Products</a></li>
-									<li><a href="#">Testimonial</a></li>
-									<li><a href="#">Contact</a></li>
-								</ul>
-							</div>
-							<div class="col-md-6 gtco-footer-link">
-								<h3>Branches</h3>
-								<ul class="gtco-list-link">
-									<li><a href="#">JY Square mall Cebu</a></li>
-									<li><a href="#">Ayala Cebu</a></li>
-									<li><a href="#">SM Seaside Cebu</a></li>
-									<li><a href="#">SM Consolacion Cebu</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-<!-- 					<div class="col-md-4 gtco-footer-subscribe">
-						<form class="form-inline">
-						  <div class="form-group">
-						    <label class="sr-only" for="exampleInputEmail3">Email address</label>
-						    <input type="email" class="form-control" id="" placeholder="Email">
-						  </div>
-						  <button type="submit" class="btn btn-primary">Send</button>
-						</form>
-					</div> -->
-				</div>
-			</div>
-			<div class="gtco-copyright">
-				<div class="gtco-container">
-					<div class="row">
-						<div class="col-md-6 text-left">
-							<p><small>&copy; 2018 Kai adventure apparel. All Rights Reserved. </small></p>
-						</div>
-						<div class="col-md-6 text-right">
-							<p>
-								<small>Powered by <a href="#" target="_blank">Kai</a></small>
-							 </p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</footer>
-		<!-- END footer -->
-
-	</div>
 <?php get_footer(); ?>
