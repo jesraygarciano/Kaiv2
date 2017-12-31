@@ -54,7 +54,7 @@
 	</head>
 	<body>
 		
-	<div class="gtco-loader"></div>
+	<!-- <div class="gtco-loader"></div> -->
 	
 	<div id="page">
 		<nav class="gtco-nav" role="navigation">
