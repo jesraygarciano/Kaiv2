@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-		<div class="gtco-container-fluid">
+		<div class="gtco-container">
 			<div class="row">
 				<div class="col-md-12">
 					<div class="owl-carousel owl-carousel-fullwidth">
@@ -86,6 +86,8 @@
 										&ldquo;</p>
 										<p class="author"><cite>&mdash; Ana Cristina</cite></p>
 									</blockquote>
+
+									<p><a href="https://facebook.com/pg/kaiadventurewear/reviews/" class="btn btn-sm btn-special">Testimonials</a></p>
 								</div>
 							</div>
 						</div>
@@ -113,7 +115,7 @@
 								</div>								
 							</div>
 
-						<p><a href="#" class="btn btn-sm btn-special">More News</a></p>
+						<p><a href="<?php echo get_page_link(get_page_by_title(Events)); ?>" class="btn btn-sm btn-special">More News</a></p>
 					</div>
 					<!-- END OF NEWS -->
 

@@ -211,7 +211,7 @@
 			nav: true,
 			dots: true,
 			autoplay: true,
-			autoplayTimeout: 5000,
+			autoplayTimeout: 10000,
 			autoplayHoverPause: false,
 			navText: [
 		      "<i class='ti-arrow-left owl-direction'></i>",

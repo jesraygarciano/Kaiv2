@@ -2,7 +2,7 @@
 			<div class="gtco-container">
 				<div class="row row-pb-md">
 					<div class="col-md-4 gtco-widget gtco-footer-paragraph">
-						<img src="<?php echo get_bloginfo('template_directory'); ?>/images/kai_white.png" />
+						<img src="<?php echo get_bloginfo('template_directory'); ?>/images/nav_logo.png" />
 						<p>Kai Adventure Wear is an outdoor brand apparel that specializes in adventure souvenirs for outdoor enthusiasts alike.</p>
 					</div>
 					<div class="col-md-8">

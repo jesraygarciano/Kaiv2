@@ -2,11 +2,11 @@
 	
 	<div class="container contactpage">
 		<div class="row">
-			<div class="col-md-5">
+			<div class="col-md-6">
 				<img src="<?php echo get_bloginfo('template_directory'); ?>/images/company_logo.png" alt="Kai made for adventure logo">
 			</div>
 
-			<div class="col-md-5 contact-context">
+			<div class="col-md-6 contact-context">
 				<h2>Contact</h2>
 				<div class="row">
 					<div class="col-xs-4">

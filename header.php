@@ -62,8 +62,8 @@
 				<div class="row">
 					<div class="col-sm-2 col-xs-12">
 						<div id="gtco-logo">
-							<a href="index.html">
-								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/kai_white.png" />
+							<a href="<?php echo get_site_url();?>">
+								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/nav_logo.png" />
 							</a></div>
 					</div>
 					<div class="col-xs-10 text-right menu-1">
