@@ -684,28 +684,44 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .aboutpage{
+	padding: 6em 0;
+	font-size: 18px;
+	font-family: $font-primary;	
 	.row{
-		.col-md-6{
+		.col-md-5{
 			vertical-align: middle;
 			color: #fff;
 			img{
-				width:50%;
+				width:100%;
 				height: auto;
+			}
+		}
+		.about-context{
+			h2{
+				padding-top: 2em;
 			}
 		}
 	}
 }
 
 .contactpage{
+	padding: 7em 0;
+	font-size: 18px;
+	font-family: $font-primary;
 	.row{
-		.col-md-6{
+		.col-md-5{
 			vertical-align: middle;
 			color: #fff;
 			img{
-				width:50%;
+				width:100%;
 				height: auto;
 			}
 		}
+		.contact-context{
+			h2{
+				padding-top: 2em;
+			}
+		}		
 	}
 }
 
