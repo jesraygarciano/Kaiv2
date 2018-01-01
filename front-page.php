@@ -99,23 +99,23 @@
 						<hr />						
 							<div class="row">
 								<div class="col-md-6 animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_4.jpg" />									
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_1.jpg" />									
 								</div>
 								<div class="col-md-6 animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_1.jpg" />									
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_3.jpg" />									
 								</div>								
 							</div>
 
 							<div class="row">
 								<div class="col-md-6 animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_3.jpg" />									
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_4.jpg" />									
 								</div>
 								<div class="col-md-6 animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_2.jpg" />									
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_2.jpg" />									
 								</div>								
 							</div>
 
-						<p><a href="<?php echo get_page_link(get_page_by_title(Events)); ?>" class="btn btn-sm btn-special">More News</a></p>
+						<p><a href="<?php echo get_page_link(get_page_by_title(Events)); ?>" class="btn btn-xs btn-special">More News</a></p>
 					</div>
 					<!-- END OF NEWS -->
 

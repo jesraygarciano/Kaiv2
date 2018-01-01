@@ -3,7 +3,9 @@
 	<div class="container aboutpage">
 
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-md-2">
+			</div>
+			<div class="col-md-4">
 				<img src="<?php echo get_bloginfo('template_directory'); ?>/images/company_logo.png" alt="Kai made for adventure logo">
 			</div>
 

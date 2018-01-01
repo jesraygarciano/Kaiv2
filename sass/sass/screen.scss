@@ -686,14 +686,18 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .aboutpage{
 	padding: 6em 0;
-	font-size: 18px;
-	font-family: $font-primary;	
+	font-weight: 500;
+	font-size: 15px;
+	font-family: $font-primary;
+	h2{
+		font-size:20px;
+	}
 	.row{
-		.col-md-6{
+		.col-md-4{
 			vertical-align: middle;
 			color: #fff;
 			img{
-				width:80%;
+				width:90%;
 				height: auto;
 			}
 		}
@@ -706,15 +710,19 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .contactpage{
-	padding: 7em 0;
-	font-size: 18px;
+	padding: 6em 0;
+	font-weight: 500;
+	font-size: 15px;
 	font-family: $font-primary;
+	h2{
+		font-size: 20px;
+	}
 	.row{
-		.col-md-6{
+		.col-md-4{
 			vertical-align: middle;
 			color: #fff;
 			img{
-				width:80%;
+				width:90%;
 				height: auto;
 			}
 		}
