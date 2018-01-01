@@ -17,7 +17,7 @@
 
 	// Excerpt Length Control
 	function set_excerpt_length(){
-		return 50;
+		return 80;
 	}
 
 	add_filter('excerpt_length','set_excerpt_length');

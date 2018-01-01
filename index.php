@@ -26,6 +26,9 @@
             		<?php endif; ?>
 
 		            <?php the_excerpt(); ?>
+
+                <p><a href="<?php the_permalink(); ?>" class="btn btn-sm btn-special text-right">Read more</a></p>
+
 		          </div><!-- /.blog-post -->
       	<?php endwhile; ?>
       <?php else : ?>
@@ -36,7 +39,7 @@
 
         <div class="col-sm-3 offset-sm-1 blog-sidebar">
           <div class="sidebar-module sidebar-module-inset">
-            <h4>About</h4>
+            <h4>Keep updated in every KAI events</h4>
             <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
           </div>
           <?php if(is_active_sidebar('sidebar')): ?>
