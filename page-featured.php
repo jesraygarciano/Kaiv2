@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 	<div class="container">
 
-	<h1>Featured Photo of the Month:</h1>
+	<h1>Featured Photos of the Month:</h1>
 
 <?php echo do_shortcode('[smartslider3 slider=5]'); ?>
 	</div>

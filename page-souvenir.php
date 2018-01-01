@@ -1,3 +1,5 @@
 <?php get_header(); ?>
-	<h1>Souvenir page page</h1>
+	<div class="container">
+		<h1>Souvenirs page</h1>
+	</div>
 <?php get_footer(); ?>
