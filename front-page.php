@@ -5,16 +5,16 @@
 				<div class="col-md-12">
 					<div class="owl-carousel owl-carousel-fullwidth">
 						<div class="item">
-								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/hero_2.jpg" alt="Kai made for adventure apparel">
+								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_1.jpg" alt="Kai made for adventure apparel">
 						</div>
 						<div class="item">
-								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/hero_3.jpg" alt="Kai made for adventure apparel">
+								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_2.jpg" alt="Kai made for adventure apparel">
 						</div>
 						<div class="item">
-								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/hero_1.jpg" alt="Kai made for adventure apparel">
+								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_3.jpg" alt="Kai made for adventure apparel">
 						</div>
 						<div class="item">
-								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/hero_4.jpg" alt="Kai made for adventure apparel">
+								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_4.jpg" alt="Kai made for adventure apparel">
 						</div>						
 					</div>
 				</div>
@@ -38,8 +38,8 @@
 				<div class="row animate-box">
 					<!-- START OF TESTIMONIALS -->
 					<div class="col-md-5 gtco-testimonials">
-						<a href=""><h2>Testimonials</h2></a>
-						<hr />
+						<a class="animate-box" href="https://facebook.com/pg/kaiadventurewear/reviews/"><h2>Testimonials</h2></a>
+						<hr class="animate-box" />
 
 							<div class="row">
 								<div class="col-xs-4">
@@ -87,7 +87,7 @@
 										<p class="author"><cite>&mdash; Ana Cristina</cite></p>
 									</blockquote>
 
-									<p><a href="https://facebook.com/pg/kaiadventurewear/reviews/" class="btn btn-sm btn-special">Testimonials</a></p>
+									<p><a href="https://facebook.com/pg/kaiadventurewear/reviews/" class="btn btn-sm btn-special animate-box">Testimonials</a></p>
 								</div>
 							</div>
 						</div>
@@ -95,27 +95,27 @@
 
 						<!-- START OF NEWS -->
 					<div class="col-md-7 gtco-news">
-						<a href="#"><h2>News</h2></a>	
-						<hr />						
+						<a class="animate-box" href="#"><h2>News</h2></a>	
+						<hr class="animate-box" />
 							<div class="row">
 								<div class="col-md-6 animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_1.jpg" />									
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event4.jpg" />
 								</div>
 								<div class="col-md-6 animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_3.jpg" />									
-								</div>								
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event1.jpg" />
+								</div>
 							</div>
 
 							<div class="row">
 								<div class="col-md-6 animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_4.jpg" />									
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event3.jpg" />
 								</div>
 								<div class="col-md-6 animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_2.jpg" />									
-								</div>								
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event2.png" />
+								</div>
 							</div>
 
-						<p><a href="<?php echo get_page_link(get_page_by_title(Events)); ?>" class="btn btn-xs btn-special">More News</a></p>
+						<p><a href="#" class="btn btn-sm btn-special animate-box">More News</a></p>
 					</div>
 					<!-- END OF NEWS -->
 
