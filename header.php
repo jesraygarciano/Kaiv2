@@ -57,7 +57,7 @@
 	<!-- <div class="gtco-loader"></div> -->
 	
 	<div id="page">
-		<nav role="navigation">
+		<nav class="gtco-nav" role="navigation">
 			<div class="gtco-container">
 				<div class="row">
 					<div class="col-sm-2 col-xs-12">
@@ -66,7 +66,7 @@
 								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/nav_logo.png" />
 							</a></div>
 					</div>
-					<div class="col-xs-12 text-right menu-1">
+					<div class="col-xs-10 text-right menu-1">
 						<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
 					</div>
 

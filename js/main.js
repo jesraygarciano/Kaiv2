@@ -342,9 +342,9 @@
 	
 	$(function(){
 		owlCarousel();
-		mobileMenuOutsideClick();
-		offcanvasMenu();
-		burgerMenu();
+		// mobileMenuOutsideClick();
+		// offcanvasMenu();
+		// burgerMenu();
 		contentWayPoint();
 		dropdown();
 		
