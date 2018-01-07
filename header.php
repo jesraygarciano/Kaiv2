@@ -57,7 +57,7 @@
 	<!-- <div class="gtco-loader"></div> -->
 	
 	<div id="page">
-		<nav class="gtco-nav" role="navigation">
+		<nav role="navigation">
 			<div class="gtco-container">
 				<div class="row">
 					<div class="col-sm-2 col-xs-12">
@@ -66,19 +66,8 @@
 								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/nav_logo.png" />
 							</a></div>
 					</div>
-					<div class="col-xs-10 text-right menu-1">
-							<?php
-							wp_nav_menu( array(
-							    'theme_location'    => 'primary',
-							    'depth'             => 2,
-							    'container'         => 'div',
-							    'container_class'   => 'collapse navbar-collapse',
-							    'container_id'      => 'bs-example-navbar-collapse-1',
-							    'menu_class'        => 'nav navbar-nav',
-							    'fallback_cb'       => 'WP_Bootstrap_Navwalker::fallback',
-							    'walker'            => new WP_Bootstrap_Navwalker(),
-							) );
-							?>
+					<div class="col-xs-12 text-right menu-1">
+						<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
 					</div>
 
 
