@@ -20,10 +20,10 @@
 							<div class="col-md-6 gtco-footer-link">
 								<h3>Branches</h3>
 								<ul class="gtco-list-link">
-									<li><a href="#">JY Square mall Cebu</a></li>
-									<li><a href="#">Ayala Cebu</a></li>
-									<li><a href="#">SM Seaside Cebu</a></li>
-									<li><a href="#">SM Consolacion Cebu</a></li>
+									<li><a href="#">Actvent</a></li>
+									<li><a href="#">Accessories</a></li>
+									<li><a href="#">Gallery</a></li>
+									<li><a href="#">Events</a></li>
 								</ul>
 							</div>
 						</div>

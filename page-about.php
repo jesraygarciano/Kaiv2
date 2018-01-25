@@ -1,7 +1,6 @@
 <?php get_header(); ?>
 	
 	<div class="container aboutpage">
-
 		<div class="row">
 			<div class="col-md-2">
 			</div>

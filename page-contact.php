@@ -10,14 +10,6 @@
 
 			<div class="col-md-6 contact-context">
 				<h2>Contact</h2>
-				<div class="row">
-					<div class="col-xs-3">
-						ADDRESS:
-					</div>
-					<div class="col-xs-8">
-						1795 San Miguel Apas, Cebu City Philippines 6000
-					</div>
-				</div>
 
 				<div class="row">
 					<div class="col-xs-3">
