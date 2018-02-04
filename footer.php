@@ -10,11 +10,15 @@
 							<div class="col-md-6 gtco-footer-link">
 								<h3>Sitemap</h3>
 								<ul class="gtco-list-link">
-									<li><a href="#">Home</a></li>
-									<li><a href="#">Features</a></li>
-									<li><a href="#">Products</a></li>
-									<li><a href="#">Testimonial</a></li>
-									<li><a href="#">Contact</a></li>
+									<li><a href="http://www.kaiadventurewear.com/">Home</a></li>
+									<li><a href="http://www.kaiadventurewear.com/events/">Events</a></li>
+									<li><a href="http://www.kaiadventurewear.com/featured/">Features</a></li>
+									<li><a href="http://www.kaiadventurewear.com/products/souvenir/">Souvenirs</a></li>
+									<li><a href="http://www.kaiadventurewear.com/products/actvent/">Products</a></li>
+									<li><a href="http://www.kaiadventurewear.com/products/accessories/">Accessories</a></li>
+									<li><a href="https://web.facebook.com/pg/kaiadventurewear/reviews/" target="_blank">Testimonials</a></li>
+									<li><a href="http://www.kaiadventurewear.com/about/">About Us</a></li>
+									<li><a href="http://www.kaiadventurewear.com/contact/">Contact Us</a></li>
 								</ul>
 							</div>
 							<div class="col-md-6 gtco-footer-link">
