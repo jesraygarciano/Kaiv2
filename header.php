@@ -66,7 +66,7 @@
 								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/nav_logo.png" />
 							</a></div>
 					</div>
-					<div class="col-xs-10 text-right menu-1">
+					<div class="col-sm-10 text-right menu-1">
 							<?php
 							wp_nav_menu( array(
 							    'theme_location'    => 'primary',

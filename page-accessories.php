@@ -1,3 +1,10 @@
 <?php get_header(); ?>
-	<h1>Accessories page</h1>
+<div class="container">
+
+	<h1>Accessories</h1>
+	<div class="animate-box">
+		<?php echo do_shortcode("[huge_it_catalog id='9']"); ?>
+	</div>
+</div>
+
 <?php get_footer(); ?>

@@ -99,27 +99,27 @@
 						<hr class="animate-box" />
 							<div class="row">
 								<div class="col-md-6 animate-box">
-									<div class="image-hover">
-										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event4.jpg" />
-									</div>
+										<a href="http://www.kaiadventurewear.com/events/">
+											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event4.jpg" />
+										</a>
 								</div>
 								<div class="col-md-6 animate-box">
-									<div class="image-hover">									
-										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event1.jpg" />
-									</div>
+										<a href="http://www.kaiadventurewear.com/events/">
+											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event1.jpg"/>
+										</a>
 								</div>
 							</div>
 
 							<div class="row">
 								<div class="col-md-6 animate-box">
-									<div class="image-hover">
-										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event3.jpg" />
-									</div>										
+										<a href="http://www.kaiadventurewear.com/events/">
+											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event3.jpg" />
+										</a>
 								</div>
 								<div class="col-md-6 animate-box">
-									<div class="image-hover">
-										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event2.png" />
-									</div>
+										<a href="http://www.kaiadventurewear.com/events/">
+											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event2.png" />
+										</a>
 								</div>
 							</div>
 

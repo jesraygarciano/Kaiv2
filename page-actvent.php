@@ -2,7 +2,7 @@
 
 <div class="container">
 	
-	<h1>Actvent pages</h1>
+	<h1>Actvent</h1>
 		<div class="animate-box">
 		<?php echo do_shortcode("[huge_it_catalog id='9']"); ?>
 		</div>

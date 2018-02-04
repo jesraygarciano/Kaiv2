@@ -1,5 +1,8 @@
 <?php get_header(); ?>
-	<div class="container">
-		<h1>Souvenirs page</h1>
-	</div>
+<div class="container">
+	<h1>Souvenir</h1>
+		<div class="animate-box">
+		<?php echo do_shortcode("[huge_it_catalog id='9']"); ?>
+		</div>
+</div>		
 <?php get_footer(); ?>
