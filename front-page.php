@@ -99,19 +99,27 @@
 						<hr class="animate-box" />
 							<div class="row">
 								<div class="col-md-6 animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event4.jpg" />
+									<div class="image-hover">
+										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event4.jpg" />
+									</div>
 								</div>
 								<div class="col-md-6 animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event1.jpg" />
+									<div class="image-hover">									
+										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event1.jpg" />
+									</div>
 								</div>
 							</div>
 
 							<div class="row">
 								<div class="col-md-6 animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event3.jpg" />
+									<div class="image-hover">
+										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event3.jpg" />
+									</div>										
 								</div>
 								<div class="col-md-6 animate-box">
-									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event2.png" />
+									<div class="image-hover">
+										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event2.png" />
+									</div>
 								</div>
 							</div>
 
