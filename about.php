@@ -11,7 +11,7 @@
 
 				Our goal is to provide all adventure enthusiasts with top quality outdoor souvenirs to suit their needs.
 				</p>
-			</div>			
+			</div>
 		</div>
 	</div>
 <?php get_footer(); ?>

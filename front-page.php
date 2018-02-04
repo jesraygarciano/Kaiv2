@@ -95,7 +95,7 @@
 
 						<!-- START OF NEWS -->
 					<div class="col-md-7 gtco-news">
-						<a class="animate-box" href="#"><h2>News</h2></a>	
+						<a class="animate-box" href="http://www.kaiadventurewear.com/events/"><h2>News and Events</h2></a>	
 						<hr class="animate-box" />
 							<div class="row">
 								<div class="col-md-6 animate-box">
