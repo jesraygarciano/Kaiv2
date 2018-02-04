@@ -115,7 +115,7 @@
 								</div>
 							</div>
 
-						<p><a href="#" class="btn btn-sm btn-special animate-box">More News</a></p>
+						<p><a href="http://www.kaiadventurewear.com/events/" class="btn btn-sm btn-special animate-box">More News</a></p>
 					</div>
 					<!-- END OF NEWS -->
 
