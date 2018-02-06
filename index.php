@@ -36,20 +36,6 @@
 
         </div><!-- /.blog-main -->
 
-        <div class="col-sm-3 offset-sm-1 blog-sidebar">
-          <div class="sidebar-module sidebar-module-inset">
-            <h4 class="animate-box">Keep updated in every KAI events</h4>
-            <p class="animate-box">Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
-          </div>
-
-          <div class="animate-box">
-            <?php if(is_active_sidebar('sidebar')): ?>
-            	<?php dynamic_sidebar('sidebar'); ?>
-    		    <?php endif; ?>
-          </div>
-
-        </div><!-- /.blog-sidebar -->
-
       </div><!-- /.row -->
 </div> <!-- /.container -->
 
