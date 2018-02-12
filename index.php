@@ -36,6 +36,17 @@
 
         </div><!-- /.blog-main -->
 
+        <div class="col-sm-3 offset-sm-1 blog-sidebar">
+          <div class="sidebar-module sidebar-module-inset">
+            <h4 class="animate-box">Keep updated in every Kai events</h4>
+          </div>
+          <?php if(is_active_sidebar('sidebar')): ?>
+            <?php wp_list_categories('title_li='); ?>
+
+            <!-- <?php dynamic_sidebar('sidebar'); ?> -->
+        <?php endif; ?>
+        </div><!-- /.blog-sidebar -->
+
       </div><!-- /.row -->
 </div> <!-- /.container -->
 
