@@ -696,11 +696,12 @@ h1, h2, h3, h4, h5, h6, figure {
 		font-size:20px;
 	}
 	.row{
-		.col-md-4{
+		.col-md-5{
 			vertical-align: middle;
 			color: #fff;
 			img{
-				width:90%;
+				vertical-align: middle;
+				width:100%;
 				height: auto;
 			}
 		}

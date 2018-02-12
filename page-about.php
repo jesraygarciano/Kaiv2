@@ -5,7 +5,8 @@
 			<div class="col-md-1">
 			</div>
 			<div class="col-md-5">
-				<img src="<?php echo get_bloginfo('template_directory'); ?>/images/kailogo_own.jpeg" alt="Kai made for adventure logo">
+
+				<img src="<?php echo get_bloginfo('template_directory'); ?>/images/company_logo.png" alt="Kai made for adventure logo">
 			</div>
 
 			<div class="col-md-6 about-context">
