@@ -1,25 +1,25 @@
 <?php get_header(); ?>
 
-		<div class="gtco-container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="owl-carousel owl-carousel-fullwidth">
-						<div class="item">
-								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_1.jpg" alt="Kai made for adventure apparel">
-						</div>
-						<div class="item">
-								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_2.jpg" alt="Kai made for adventure apparel">
-						</div>
-						<div class="item">
-								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_3.jpg" alt="Kai made for adventure apparel">
-						</div>
-						<div class="item">
-								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_4.jpg" alt="Kai made for adventure apparel">
-						</div>						
+	<div class="gtco-container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="owl-carousel owl-carousel-fullwidth">
+					<div class="item">
+							<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_1.jpg" alt="Kai made for adventure apparel">
 					</div>
+					<div class="item">
+							<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_2.jpg" alt="Kai made for adventure apparel">
+					</div>
+					<div class="item">
+							<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_3.jpg" alt="Kai made for adventure apparel">
+					</div>
+					<div class="item">
+							<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_4.jpg" alt="Kai made for adventure apparel">
+					</div>						
 				</div>
 			</div>
 		</div>
+	</div>
 
 		<div class="gtco-section">
 			<div class="gtco-container-fluid">
