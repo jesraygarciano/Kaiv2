@@ -33,102 +33,102 @@
 	</div>
 	<!-- END Work -->
 
-		<div class="gtco-section">
-			<div class="gtco-container-fluid">
-				<div class="row animate-box">
-					<!-- START OF TESTIMONIALS -->
-					<div class="col-md-5 gtco-testimonials">
-						<a class="animate-box" href="https://facebook.com/pg/kaiadventurewear/reviews/"><h2>Testimonials</h2></a>
-						<hr class="animate-box" />
+	<div class="gtco-section">
+		<div class="gtco-container-fluid">
+			<div class="row animate-box">
+				<!-- START OF TESTIMONIALS -->
+				<div class="col-md-5 gtco-testimonials">
+					<a class="animate-box" href="https://facebook.com/pg/kaiadventurewear/reviews/"><h2>Testimonials</h2></a>
+					<hr class="animate-box" />
 
-							<div class="row">
-								<div class="col-xs-4">
-									<div class="gtco-testimony animate-box">
-										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/testi_4.jpg" />
-									</div>
-								</div>
-									<div class="col-xs-8 animate-box">
-										<blockquote>
-											<p>&ldquo;
-												We bought our green Kai shirts, and used them for our climb up Mt. Guiting-guiting, one of the most technically difficult mountains in the Philippines. Oh, boy, our shirts were very comfortable. And it becomes even more comfy at the summit of the mountain where the temperature dropped drastically. Our Kai shirts are also quite fashionable; we wear them to the office and mall as well!
-											&ldquo;</p>
-											<p class="author"><cite>&mdash; Gian Carlo Jubela (Adrenaline Romance)</cite></p>
-										</blockquote>									
-									</div>
-							</div>
-
-							<div class="row">
-								<div class="col-xs-4">
-									<div class="gtco-testimony animate-box">
-										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/testi_2.jpg" />
-									</div>									
-								</div>
-
-								<div class="col-xs-8 animate-box">
-									<blockquote>
-										<p>&ldquo;An Apparel that made for adventurous individual, a very trusted brand! Sooo I highly recommend everyone to use KAI for your outdoor activities and adventures.
-										&ldquo;</p>
-										<p class="author"><cite>&mdash; Edmund Lazarte</cite></p>
-									</blockquote>
+						<div class="row">
+							<div class="col-xs-4">
+								<div class="gtco-testimony animate-box">
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/testi_4.jpg" />
 								</div>
 							</div>
-
-							<div class="row">
-								<div class="col-xs-4">
-									<div class="gtco-testimony animate-box">
-										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/testi_3.jpg" />
-									</div>									
-								</div>
-
 								<div class="col-xs-8 animate-box">
 									<blockquote>
-										<p>&ldquo;i just love my KAI shirt! made of quality material, so comfortable for outdoor adventures and the design is unique and classy. I highly recommend this brand.
+										<p>&ldquo;
+											We bought our green Kai shirts, and used them for our climb up Mt. Guiting-guiting, one of the most technically difficult mountains in the Philippines. Oh, boy, our shirts were very comfortable. And it becomes even more comfy at the summit of the mountain where the temperature dropped drastically. Our Kai shirts are also quite fashionable; we wear them to the office and mall as well!
 										&ldquo;</p>
-										<p class="author"><cite>&mdash; Ana Cristina</cite></p>
-									</blockquote>
-
-									<p><a href="https://facebook.com/pg/kaiadventurewear/reviews/" class="btn btn-sm btn-special animate-box">Testimonials</a></p>
+										<p class="author"><cite>&mdash; Gian Carlo Jubela (Adrenaline Romance)</cite></p>
+									</blockquote>									
 								</div>
+						</div>
+
+						<div class="row">
+							<div class="col-xs-4">
+								<div class="gtco-testimony animate-box">
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/testi_2.jpg" />
+								</div>									
+							</div>
+
+							<div class="col-xs-8 animate-box">
+								<blockquote>
+									<p>&ldquo;An Apparel that made for adventurous individual, a very trusted brand! Sooo I highly recommend everyone to use KAI for your outdoor activities and adventures.
+									&ldquo;</p>
+									<p class="author"><cite>&mdash; Edmund Lazarte</cite></p>
+								</blockquote>
 							</div>
 						</div>
-						<!-- END OF TESTIMONIALS -->
 
-						<!-- START OF NEWS -->
-					<div class="col-md-7 gtco-news">
-						<a class="animate-box" href="http://www.kaiadventurewear.com/events/"><h2>News and Events</h2></a>	
-						<hr class="animate-box" />
-							<div class="row">
-								<div class="col-md-6 animate-box">
-										<a href="http://www.kaiadventurewear.com/events/">
-											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event4.jpg" />
-										</a>
-								</div>
-								<div class="col-md-6 animate-box">
-										<a href="http://www.kaiadventurewear.com/events/">
-											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event1.jpg"/>
-										</a>
-								</div>
+						<div class="row">
+							<div class="col-xs-4">
+								<div class="gtco-testimony animate-box">
+									<img src="<?php echo get_bloginfo('template_directory'); ?>/images/testi_3.jpg" />
+								</div>									
 							</div>
 
-							<div class="row">
-								<div class="col-md-6 animate-box">
-										<a href="http://www.kaiadventurewear.com/events/">
-											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event3.jpg" />
-										</a>
-								</div>
-								<div class="col-md-6 animate-box">
-										<a href="http://www.kaiadventurewear.com/events/">
-											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event2.png" />
-										</a>
-								</div>
-							</div>
+							<div class="col-xs-8 animate-box">
+								<blockquote>
+									<p>&ldquo;i just love my KAI shirt! made of quality material, so comfortable for outdoor adventures and the design is unique and classy. I highly recommend this brand.
+									&ldquo;</p>
+									<p class="author"><cite>&mdash; Ana Cristina</cite></p>
+								</blockquote>
 
-						<p><a href="http://www.kaiadventurewear.com/events/" class="btn btn-sm btn-special animate-box">More News</a></p>
+								<p><a href="https://facebook.com/pg/kaiadventurewear/reviews/" class="btn btn-sm btn-special animate-box">Testimonials</a></p>
+							</div>
+						</div>
 					</div>
-					<!-- END OF NEWS -->
+					<!-- END OF TESTIMONIALS -->
 
+					<!-- START OF NEWS -->
+				<div class="col-md-7 gtco-news">
+					<a class="animate-box" href="http://www.kaiadventurewear.com/events/"><h2>News and Events</h2></a>	
+					<hr class="animate-box" />
+						<div class="row">
+							<div class="col-md-6 animate-box">
+									<a href="http://www.kaiadventurewear.com/events/">
+										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event4.jpg" />
+									</a>
+							</div>
+							<div class="col-md-6 animate-box">
+									<a href="http://www.kaiadventurewear.com/events/">
+										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event1.jpg"/>
+									</a>
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-md-6 animate-box">
+									<a href="http://www.kaiadventurewear.com/events/">
+										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event3.jpg" />
+									</a>
+							</div>
+							<div class="col-md-6 animate-box">
+									<a href="http://www.kaiadventurewear.com/events/">
+										<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event2.png" />
+									</a>
+							</div>
+						</div>
+
+					<p><a href="http://www.kaiadventurewear.com/events/" class="btn btn-sm btn-special animate-box">More News</a></p>
 				</div>
+				<!-- END OF NEWS -->
+
 			</div>
 		</div>
+	</div>
 	<!-- END  -->
 <?php get_footer(); ?>
