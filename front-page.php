@@ -21,17 +21,17 @@
 		</div>
 	</div>
 
-		<div class="gtco-section">
-			<div class="gtco-container-fluid">
-				<div class="row">
-					<div class="col-md-8 col-md-offset-2 gtco-heading text-center">
-						<h2 class="animate-box">WEAR YOUR PASSION FOR ADVENTURE</h2>
-						<p class="animate-box">Be proud of yourself for being an avid adventurer. Show to the world that you are living life on your own terms and that you are a steward for Mother Nature. One of the best ways to do that is to wear cool, high-quality, and comfortable shirts that speak high volumes of your passion. And wearing locally made Kai shirts will definitely proclaim your love for the outdoors and your search for great adventures.</p>
-					</div>
+	<div class="gtco-section">
+		<div class="gtco-container-fluid">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 gtco-heading text-center">
+					<h2 class="animate-box">WEAR YOUR PASSION FOR ADVENTURE</h2>
+					<p class="animate-box">Be proud of yourself for being an avid adventurer. Show to the world that you are living life on your own terms and that you are a steward for Mother Nature. One of the best ways to do that is to wear cool, high-quality, and comfortable shirts that speak high volumes of your passion. And wearing locally made Kai shirts will definitely proclaim your love for the outdoors and your search for great adventures.</p>
 				</div>
 			</div>
 		</div>
-		<!-- END Work -->
+	</div>
+	<!-- END Work -->
 
 		<div class="gtco-section">
 			<div class="gtco-container-fluid">
@@ -130,5 +130,5 @@
 				</div>
 			</div>
 		</div>
-		<!-- END  -->
+	<!-- END  -->
 <?php get_footer(); ?>
