@@ -5,6 +5,9 @@
 				<div class="col-md-12">
 					<div class="owl-carousel owl-carousel-fullwidth">
 						<div class="item">
+								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/2yrs.jpg" alt="Kai made for adventure apparel">
+						</div>						
+						<div class="item">
 								<img src="<?php echo get_bloginfo('template_directory'); ?>/images/slider_1.jpg" alt="Kai made for adventure apparel">
 						</div>
 						<div class="item">
@@ -100,12 +103,12 @@
 							<div class="row">
 								<div class="col-md-6 animate-box">
 										<a href="http://www.kaiadventurewear.com/events/">
-											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event4.jpg" />
+											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_1.jpg" />
 										</a>
 								</div>
 								<div class="col-md-6 animate-box">
 										<a href="http://www.kaiadventurewear.com/events/">
-											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event1.jpg"/>
+											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_2.png"/>
 										</a>
 								</div>
 							</div>
@@ -113,12 +116,12 @@
 							<div class="row">
 								<div class="col-md-6 animate-box">
 										<a href="http://www.kaiadventurewear.com/events/">
-											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event3.jpg" />
+											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/campjam3.jpg" />
 										</a>
 								</div>
 								<div class="col-md-6 animate-box">
 										<a href="http://www.kaiadventurewear.com/events/">
-											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event2.png" />
+											<img src="<?php echo get_bloginfo('template_directory'); ?>/images/event_4.png" />
 										</a>
 								</div>
 							</div>
