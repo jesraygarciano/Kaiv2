@@ -33,7 +33,8 @@
 								</div>							
 							</div>
 						</div>
-					</div>
+					</div> <!--POLOGUES
+-->
 				</div>
 				<div class="gtco-copyright">
 					<div class="gtco-container">
