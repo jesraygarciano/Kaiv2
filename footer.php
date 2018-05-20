@@ -51,7 +51,7 @@
 					</div>
 				</div>
 			</footer>
-			<!-- END footer -->
+			<!-- END footer ()-->
 
 		</div>
 		<div class="gototop js-top">
