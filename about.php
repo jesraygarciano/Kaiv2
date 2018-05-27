@@ -13,5 +13,5 @@
 				</p>
 			</div>
 		</div>
-	</div>
+	</div> <!--end-->
 <?php get_footer(); ?>
